@@ -1,4 +1,4 @@
-This is a simple raytracing application made in C with SDL2. 
+A simple raytracing demonstration made in C with SDL2. 
 
 To compile and run the program:
 * You MUST have [SDL2](https://wiki.libsdl.org/SDL2/Installation) installed
