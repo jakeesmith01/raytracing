@@ -8,3 +8,5 @@ To compile the program:
 * run make | make
 * run the program | ./raytracing
 
+![Alt text](screenshot_24022025_214359.jpg)
+
