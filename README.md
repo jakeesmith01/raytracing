@@ -2,11 +2,11 @@ This is a simple raytracing application made in C with SDL2.
 
 To compile and run the program:
 * You MUST have [SDL2](https://wiki.libsdl.org/SDL2/Installation) installed
-* make the build directory | mkdir build
-* change to the build directory | cd build
-* run the cmake | cmake ..
-* run make | make
-* run the program | ./raytracing
+* make the build directory              | mkdir build
+* change to the build directory         | cd build
+* run the cmake                         | cmake ..
+* run make                              | make
+* run the program                       | ./raytracing
 
 ![Alt text](screenshot_24022025_214359.jpg)
 
