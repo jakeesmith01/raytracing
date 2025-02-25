@@ -8,7 +8,7 @@ To compile and run the program:
 * run make                              | make
 * run the program                       | ./raytracing
 
-![Alt text](screenshot_24022025_214359.jpg)
+![Alt text](raytracing.jpg)
 
 The larger circle, referred to as the shadow obstacle, will move up and down the screen to show the changing rays from the light source. If you left click and move the mouse, you can move the light source around the screen to see how that effects the rays. The rays are cast from the center point of the light source circle, so if that point is covered either by the obstacle or the border of the window, no rays will be cast. 
 
