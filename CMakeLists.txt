@@ -15,5 +15,5 @@ find_package(SDL2 REQUIRED)
 # Include SDL2 directories
 include_directories(${SDL2_INCLUDE_DIRS})
 
-# Link SDL2 libraries
+# Link SDL2 and math libraries
 target_link_libraries(raytracing ${SDL2_LIBRARIES} m)
